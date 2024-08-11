@@ -1,0 +1,4 @@
+*.md
+build
+dist
+plutus.json

@@ -1,0 +1,6 @@
+.vscode
+aiken.lock
+build
+dist
+node_modules
+plutus.json
